@@ -1,5 +1,6 @@
 from email.errors import InvalidDateDefect
 import sqlite3
+print('banco de dados')
 nome = str(input('Qual nome gostaria de deletar da lista : '))
 
 try:  
